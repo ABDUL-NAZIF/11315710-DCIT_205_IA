@@ -29,9 +29,9 @@ This project aims to showcase the vibrant activities and information within the 
 # USAGE
 Costumize the content of each page by updating the html file in the respective folders. Modify the styles by editing the css files.ensure the image and othe assests are placed in the appropraite directories.
 
-![home]<(![Alt text](<New folder/Screenshot (2).png>))>
-![Applynow]<(![Alt text](<New folder/Screenshot (3).png>))>
-![Meetings]<(![Alt text](<New folder/Screenshot (6).png>))>
-![Courses]<![Alt text](<New folder/Screenshot (3).png>)>
-![contact]<![Alt text](<New folder/Screenshot (7).png>)>
-
+![CONTACT](<Screenshot (7).png>)
+![FEW FACTS ](<Screenshot (6)-2.png>)
+![COURSES](<Screenshot (5).png>)
+![APPLY NOW](<Screenshot (4).png>)
+![AVAILABLE COURSES](<Screenshot (3).png>)
+![HOME](<Screenshot (2).png>)
