@@ -30,8 +30,16 @@ This project aims to showcase the vibrant activities and information within the 
 Costumize the content of each page by updating the html file in the respective folders. Modify the styles by editing the css files.ensure the image and othe assests are placed in the appropraite directories.
 
 ![CONTACT](<Screenshot (7).png>)
-![FEW FACTS ](<Screenshot (6)-2.png>)
+![FEW FACTS](<Screenshot (6).png>)
 ![COURSES](<Screenshot (5).png>)
-![APPLY NOW](<Screenshot (4).png>)
+![APPLYNOW](<Screenshot (4).png>)
 ![AVAILABLE COURSES](<Screenshot (3).png>)
 ![HOME](<Screenshot (2).png>)
+
+
+# YOUR JOURNEY, YOUR FUTURE
+Embark on a transformative journey where your passion for technology meets academic excellence. Whether you aspire to develop innovative software, contribute to advancements in artificial intelligence, or become a cybersecurity expert, the UG Computer Science Department at University Ghana is your gateway to success.
+
+
+# CONNECT WITH US
+Ready to take the next step? Connect with our admissions team, schedule a campus tour, or attend an information session. We're here to support you on your journey to becoming a part of the UG Computer Science community at [University Of Ghana].
