@@ -29,12 +29,12 @@ This project aims to showcase the vibrant activities and information within the 
 # USAGE
 Costumize the content of each page by updating the html file in the respective folders. Modify the styles by editing the css files.ensure the image and othe assests are placed in the appropraite directories.
 
-![CONTACT](<Screenshot (7).png>)
-![FEW FACTS](<Screenshot (6).png>)
-![COURSES](<Screenshot (5).png>)
-![APPLYNOW](<Screenshot (4).png>)
-![AVAILABLE COURSES](<Screenshot (3).png>)
-![HOME](<Screenshot (2).png>)
+![CONTACT]<img src="./screenshot/Screenshot (7).png" alt="">
+![FEWFACTS]<img src="./screenshot/Screenshot (6)-1.png" alt="">
+![COURSES]<img src="./screenshot/Screenshot (3).png" alt="">
+![APPLYNOW]<img src="./screenshot/Screenshot (4).png" alt="">
+![AVAILABLECOURSES]<img src="./screenshot/Screenshot (3).png" alt="">
+![HOME]<img src="./screenshot/Screenshot (2).png" alt="">
 
 
 # YOUR JOURNEY, YOUR FUTURE
